@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Alipemma – Kole South 2031</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; background: #f4f4f4; }
+        header { background: #0d47a1; color: white; padding: 40px; text-align: center; }
+        nav { background: #1565c0; padding: 12px; text-align: center; }
+        nav a { color: white; margin: 0 15px; text-decoration: none; font-weight: bold; font-size: 18px; }
+        section { padding: 50px 20px; max-width: 900px; margin: auto; }
+        .card { background: white; padding: 25px; margin: 20px 0; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); }
+        footer { background: #0d47a1; color: white; text-align: center; padding: 20px; }
+        h1 { font-size: 40px; margin-bottom: 10px; }
+        h2 { font-size: 28px; margin-bottom: 15px; color: #0d47a1; }
+        p { font-size: 18px; line-height: 1.6; }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Alipemma</h1>
+    <p>A New Voice for Kole South – 2031</p>
+</header>
+
+<nav>
+    <a href="#about">About</a>
+    <a href="#vision">Vision</a>
+    <a href="#contact">Contact</a>
+</nav>
+
+<section id="about">
+    <div class="card">
+        <h2>About Alipemma</h2>
+        <p>Alipemma is dedicated to transparent leadership, youth empowerment, and meaningful development in Kole South. Focused on improving lives and creating opportunities for all constituents.</p>
+    </div>
+</section>
+
+<section id="vision">
+    <div class="card">
+        <h2>My Vision</h2>
+        <p>✔ Create jobs and income opportunities</p>
+        <p>✔ Improve roads, schools, and healthcare</p>
+        <p>✔ Empower youth and women</p>
+        <p>✔ Promote honest and accountable leadership</p>
+    </div>
+</section>
+
+<section id="contact">
+    <div class="card">
+        <h2>Contact & Support</h2>
+        <p>Join the movement for a stronger Kole South. Follow updates and reach out to volunteer or support the campaign.</p>
+        <p>Email: alipemma@email.com</p>
+        <p>Phone: +256...</p>
+    </div>
+</section>
+
+<footer>
+    <p>© 2031 Alipemma Campaign</p>
+</footer>
+
+</body>
+</html>
