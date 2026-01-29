@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Alipemma – Kole South 2031</title>
+    <style>
+        body { font-family: Arial; margin: 0; background: #f4f4f4; }
+        header { background: #0d47a1; color: white; padding: 30px; text-align: center; }
+        nav { background: #1565c0; padding: 10px; text-align: center; }
+        nav a { color: white; margin: 0 15px; text-decoration: none; font-weight: bold; }
+        section { padding: 40px; }
+        .card { background: white; padding: 20px; margin: 20px 0; border-radius: 8px; }
+        footer { background: #0d47a1; color: white; text-align: center; padding: 15px; }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Alipemma</h1>
+    <p>A New Voice for Kole South – 2031</p>
+</header>
+
+<nav>
+    <a href="#about">About</a>
+    <a href="#vision">My Vision</a>
+    <a href="#contact">Contact</a>
+</nav>
+
+<section id="about">
+    <div class="card">
+        <h2>About Alipemma</h2>
+        <p>Dedicated to development, transparency, youth empowerment, and better services for the people of Kole South.</p>
+    </div>
+</section>
+
+<section id="vision">
+    <div class="card">
+        <h2>My Vision for Kole South</h2>
+        <p>✔ Jobs and income opportunities</p>
+        <p>✔ Better roads and services</p>
+        <p>✔ Youth and women empowerment</p>
+        <p>✔ Honest and accountable leadership</p>
+    </div>
+</section>
+
+<section id="contact">
+    <div class="card">
+        <h2>Get in Touch</h2>
+        <p>Follow campaign updates and join the movement for a stronger Kole South.</p>
+    </div>
+</section>
+
+<footer>
+    <p>© 2031 Alipemma Campaign</p>
+</footer>
+
+</body>
+</html>
